@@ -1,2 +1,2 @@
 ls
-$date
+date
