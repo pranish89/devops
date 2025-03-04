@@ -1,2 +1,3 @@
 ls
 date
+echo myfirst
